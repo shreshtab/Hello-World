@@ -1,6 +1,6 @@
 UPDATE(11/12):
 
-It's been almost a year. Looking back, I wish I did things differently. I wish I didn't waste so much time. But it's time to look forward and see how I can do better. I think I have a better mindset, and have optimized learning around my crazy work schedule. Is this uploading? Yes it is! I've integrated VS Code with GitHub!
+It's been almost a year. Looking back, I wish I did things differently. I wish I didn't waste so much time. But it's time to look forward and see how I can do better. I think I have a better mindset, and have optimized learning around my crazy work schedule. Is this uploading? Yes it is! I've integrated VS Code with GitHub! Testing a pull request...
 
 
 # Hello-World
